@@ -6,5 +6,5 @@
 
 ## ✨ Motivação
 
-Desenolver habilidades práticas com JFrames.
+Desenvolver habilidades práticas com JFrames.
 
