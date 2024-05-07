@@ -6,5 +6,5 @@
 
 ## ✨ Motivação
 
-Ter um primeiro contato prático com JFrames.
+Desenolver habilidades práticas com JFrames.
 
